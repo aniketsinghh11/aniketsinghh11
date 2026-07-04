@@ -25,6 +25,6 @@
 ## 📫 Reach Me
 - GitHub: https://github.com/aniketsinghh11
 - Email: asaniketsingh9@gmail.com
-- LinkeedIn: www.linkedin.com/in/aniket-singhh11
+- LinkedIn: www.linkedin.com/in/aniket-singhh11
 
 ⭐ Thanks for visiting my profile!
