@@ -23,7 +23,8 @@
 - VS Code
 
 ## 📫 Reach Me
-- GitHub: https://github.com/your-username
-- Email: your-email@example.com
+- GitHub: https://github.com/aniketsinghh11
+- Email: asaniketsingh9@gmail.com
+- LinkeedIn: www.linkedin.com/in/aniket-singhh11
 
 ⭐ Thanks for visiting my profile!
