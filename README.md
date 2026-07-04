@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Aniket 👋
 
-<!--
-**aniketsinghh11/aniketsinghh11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Diploma Computer Science Student  
+💻 Passionate about Programming & Web Development  
+🚀 Learning and building projects 
 
-Here are some ideas to get you started:
+## 🌱 Currently Working On
+- Learning Java from scratch
+- Learning JavaScript from scratch
+- Improving DSA with C++
+- Building web development projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tools & Technologies
+- C
+- C++
+- Python
+- MySQL
+- HTML
+- CSS
+- Bootstrap
+- JavaScript
+- Git & GitHub
+- VS Code
+
+## 📫 Reach Me
+- GitHub: https://github.com/your-username
+- Email: your-email@example.com
+
+⭐ Thanks for visiting my profile!
